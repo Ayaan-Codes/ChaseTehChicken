@@ -13,4 +13,8 @@ If you follow this account I will be very confused as to why but thanks anyway <
 
 [Follow my Twitch](https://twitch.tv/chaseyy2)
 
+---
+
+![GitHub followers](https://img.shields.io/github/followers/ChaseTehChicken?label=Follow&style=social)
+
 ![Size](https://img.shields.io/github/repo-size/ChaseTehChicken/ChaseTehChicken)
