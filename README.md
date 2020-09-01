@@ -7,7 +7,16 @@ If you follow this account I will be very confused as to why but thanks anyway <
 
 ---
 
-[Support Me <3](https://ko-fi.com/Chaseyy)
+To save you some time, here are some of the things you will find here:
+
+ - Discord Bots (Most of them written in python)
+ - Some basic webpage layouts
+ - Random apps and games I've made over the years
+ - Anything else I can be bothered putting on GitHub
+
+---
+
+[Buy me a coffee <3](https://ko-fi.com/Chaseyy)
 
 [Follow my YouTube channel](https://youtube.com/Chaseyy)
 
