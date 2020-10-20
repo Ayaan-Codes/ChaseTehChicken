@@ -26,4 +26,4 @@ To save you some time, here are some of the things you will find here:
 
 ![Size](https://img.shields.io/github/repo-size/ChaseTehChicken/ChaseTehChicken)
 
-![GitHub metrics](https://metrics.lecoq.io/ChaseTehChicken)  
+
